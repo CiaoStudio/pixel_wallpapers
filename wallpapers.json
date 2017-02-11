@@ -1,6 +1,6 @@
 {
-   "wallpapers": [
-      {
+	"Wallpapers":
+        [
          "author": "Pixel",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_1.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_1_thumb.jpg",		 
@@ -122,7 +122,7 @@
          "author": "Pixel",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_20.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_20_thumb.jpg",	 
-         "name": "Light Reflection"
+         "name": "Light Reflection",
       }	  
    ]
 }
