@@ -2,6 +2,18 @@
 	"Wallpapers":
         [
       {
+         "author": "Pixel",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_26.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_26_thumb.jpg",	 
+         "name": "Red Dust"
+      },	 
+      {
+         "author": "Pixel",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_25.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_25_thumb.jpg",	 
+         "name": "Muu Muu Playa"
+      },	 	  
+      {
          "author": "Android O",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_24.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_wallpapers/master/wall_24_thumb.jpg",	 
